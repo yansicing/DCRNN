@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/yansicing/DCRNN.svg)
 # Driving Style Representation in Convolutional Recurrent Neural Network Models of Driver Identification
 
 This repository contains all the implementations (including proposed models as well as baselines) and sample files for the D-CRNN paper. 
